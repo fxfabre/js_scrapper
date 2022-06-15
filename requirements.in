@@ -1,0 +1,20 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+requests
+joblib
+psycopg2
+sqlalchemy
+sqlalchemy_utils
+text-unidecode
+
+selenium
+#phantomjs
+#requests-html
+webdriver-manager
+
+# dev
+pip-tools
+jupyterlab
